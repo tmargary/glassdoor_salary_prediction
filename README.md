@@ -45,6 +45,18 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 - Column for simplified job title and Seniority
 - Column for description length
 
+## EDA
+
+Under construction
+
+## Model Building
+
+Under construction
+
+## Model performance
+
+Under construction
+
 ## resources
 - https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
 - https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
