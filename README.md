@@ -5,12 +5,6 @@
 - Engineered features from the text of each job description to quantify the value companies put on Python, R, Excel, Spark, AWS, Hadoop, Apache, SAS.
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 
-## Code and Resources Used
-**Python Version:** 3.7<br/>
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle<br/>
-**Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium<br/>
-**Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905<br/>
-
 ## Web Scraping
 
 Tweaked the web scraper github repo (above) to scrape 2000 job postings from glassdoor.com. With each job, we got the following:
@@ -58,6 +52,8 @@ Under construction
 Under construction
 
 ## resources
-- https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905
-- https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
-- https://github.com/PlayingNumbers/ds_salary_proj
+- **Video guide:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+- **Python Version:** 3.7<br/>
+- **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium<br/>
+- **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium<br/>
+- **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905<br/>
