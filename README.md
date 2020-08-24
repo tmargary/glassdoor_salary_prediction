@@ -52,6 +52,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/words.png)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/corr.png)
 
+
+
 ## Model Building
 
 Under construction
