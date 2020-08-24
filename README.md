@@ -39,7 +39,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## EDA
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/'python'%2C%20'r'.png)
 
 ## Model Building
 
