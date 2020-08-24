@@ -55,11 +55,19 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## Model Building
 
-Under construction
+Based on the EDA, the following features are selected:
+`'avg_salary', 'Rating', 'Size', 'Type of ownership', 'Industry', 'Sector', 'Revenue', 'job_state',
+'same_state', 'age', 'python', 'r', 'spark', 'aws', 'hadoop', 'apache', 'sas', 'excel', 'job_simp', 
+'seniority', 'desc_leng', 'num_comp'`
+
+After choosing the features, I tried three models (Linear Regression, Lasso Regression, Random forest) and used Mean Absolute Error to evaluate the performance of the model.
 
 ## Model performance
 
-Under construction
+After feeding these feautures to our model, these are the results of the folloing algorithms:
+- Random Forest: MAE = 7.25
+- Linear Regression: MAE = 12.04
+- Lasso Regression: MAE = 13.43
 
 ## resources
 - **Python Version:** 3.8<br/>
