@@ -29,19 +29,17 @@ Tweaked the web scraper github repo (above) to scrape 2000 job postings from gla
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
 - Parsed numeric data out of salary
-- Made columns for employer provided salary and hourly wages
-- Removed rows without salary
 - Parsed rating out of company text
 - Made a new column for company state
 - Added a column for if the job was at the company’s headquarters
 - Transformed founded date into age of company
-- Made columns for if different skills were listed in the job description:
-- Column for simplified job title and Seniority
+- Made columns for different skills listed in the job description:
+- Column for simplified job title and seniority
 - Column for description length
 
 ## EDA
 
-Under construction
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Model Building
 
