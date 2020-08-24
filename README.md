@@ -80,6 +80,6 @@ MAE of 7.25 means that the model predicts the annual salary on the test set with
 
 ## Future Plans
 - Do some research to underdstand why Lasso Regression did worse than Linear Regression and kept deteriorating as alpha increased.
+![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/Lasso.png)
 - Try to increase the quality of feature selection.
 - Come up with feature engineering ideas which will increase the prediction accuracy. 
-![](http://localhost:8888/view/Desktop/ds_salary_proj/assets/Lasso.png)
