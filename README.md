@@ -71,7 +71,7 @@ After feeding these feautures to our model, these are the results of the folloin
 
 ## resources
 - **Python Version:** 3.8<br/>
-- **Video guide:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 - **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium<br/>
 - **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium<br/>
 - **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905<br/>
+- **Video tutorials:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
