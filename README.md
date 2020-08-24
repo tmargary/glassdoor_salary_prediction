@@ -39,7 +39,9 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## EDA
 
-![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/'python'%2C%20'r'.png)
+Comparing the demand for Python vs R_Studio
+!(https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/'python'%2C%20'r'.png)
+
 
 ## Model Building
 
