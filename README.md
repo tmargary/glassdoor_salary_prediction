@@ -62,16 +62,24 @@ Based on the EDA, the following features are selected:
 
 After choosing the features, I tried three models (Linear Regression, Lasso Regression, Random forest) and used Mean Absolute Error to evaluate the performance of the model.
 
-## Model performance
+## Model Performance
 
 After feeding these feautures to our model, these are the results of the folloing algorithms:
 - Random Forest: MAE = 7.25
 - Linear Regression: MAE = 12.04
 - Lasso Regression: MAE = 13.43
 
-## resources
+MAE of 7.25 means that the model predicts the annual salary on the test set with mean average error of 7,250 dollars, which is not a bad result at all.
+
+## Resources
 - **Python Version:** 3.8<br/>
 - **Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium<br/>
 - **Scraper Github:** https://github.com/arapfaik/scraping-glassdoor-selenium<br/>
 - **Scraper Article:** https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905<br/>
 - **Video tutorials:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+
+## Future Plans
+- Do some research to underdstand why Lasso Regression did worse than Linear Regression and kept deteriorating as alpha increased.
+- Try to increase the quality of feature selection.
+- Come up with feature engineering ideas which will increase the prediction accuracy. 
+![](http://localhost:8888/view/Desktop/ds_salary_proj/assets/Lasso.png)
