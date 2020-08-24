@@ -69,7 +69,7 @@ After feeding these feautures to our model, these are the results of the folloin
 - Linear Regression: MAE = 12.04
 - Lasso Regression: MAE = 13.43
 
-MAE of 7.25 means that the model predicts the annual salary on the test set with mean average error of 7,250 dollars, which is not a bad result at all.
+**In this case, Random Forest performed really well, and MAE of 7.25 means the model predicts the annual salary on the test set with mean average error of 7,250 dollars, which is not a bad result at all.**
 
 ## Resources
 - **Python Version:** 3.8<br/>
