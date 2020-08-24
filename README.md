@@ -48,8 +48,6 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/'python'%2C%20'r'.png)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/Min%2C%20Max%2C%20and%20Avg%20salaries.png)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/corr.png)
-![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/desc_leng.png)
-![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/desc_leng.png)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/num_of_emp.png)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/state.png)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/type.png)
