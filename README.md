@@ -80,7 +80,8 @@ After feeding these features to our model, these are the results of the followin
 - **Video tutorials:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## Future Plans
-- Do some research to underdstand why Lasso Regression did worse than Linear Regression and kept deteriorating as alpha increased.<br/>
+- Do research to underdstand why Lasso Regression did worse than Linear Regression and kept deteriorating as alpha increased.<br/>
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/Lasso.png)
 - Try to increase the quality of feature selection.
-- Come up with feature engineering ideas which will increase the prediction accuracy.
+- Come up with new feature engineering ideas which will increase the prediction accuracy.
+- Deploy the model
