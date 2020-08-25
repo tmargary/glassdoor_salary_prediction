@@ -7,7 +7,7 @@
 
 ## Web Scraping
 
-Tweaked the web scraper github repo (above) to scrape 2000 job postings from glassdoor.com. With each job, we got the following:
+Tweaked the web scraper GitHub repo (link below) to scrape 2000 job postings from glassdoor.com. With each job, we got the following:
 
 - Job title
 - Salary Estimate
@@ -39,10 +39,10 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## EDA
 
-- Comparing the demand for certain skills,
+- Comparing the demand for specific skills,
 - Understanding the demand for a data scientist based on size, state, industry, type of the company, etc
 - Analyzing the Min, Max, and Average salary distributions,
-- Understanding correlation between features,
+- Understanding the correlation between features,
 - Plotting Word Cloud for Job Description
 
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/'python'%2C%20'r'.png)
@@ -64,12 +64,13 @@ After choosing the features, I tried three models (Linear Regression, Lasso Regr
 
 ## Model Performance
 
-After feeding these feautures to our model, these are the results of the folloing algorithms:
-- Random Forest: MAE = 7.25
+After feeding these features to our model, these are the results of the following algorithms:
+- Random Forest (after GridsearchCV): MAE = 6.96
+- Random Forest (before GridsearchCV): MAE = 7.25
 - Linear Regression: MAE = 12.04
 - Lasso Regression: MAE = 13.43
 
-**In this case, Random Forest performed really well, and MAE of 7.25 means the model predicts the annual salary on the test set with mean average error of 7,250 dollars, which is not a bad result at all.**
+**In this case, Random Forest performed really well, and MAE of 6.96 means the model predicts the annual salary on the test set with a mean average error of $ 6,969, which is not a bad result at all.**
 
 ## Resources
 - **Python Version:** 3.8<br/>
@@ -82,4 +83,4 @@ After feeding these feautures to our model, these are the results of the folloin
 - Do some research to underdstand why Lasso Regression did worse than Linear Regression and kept deteriorating as alpha increased.<br/>
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/Lasso.png)
 - Try to increase the quality of feature selection.
-- Come up with feature engineering ideas which will increase the prediction accuracy. 
+- Come up with feature engineering ideas which will increase the prediction accuracy.
