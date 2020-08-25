@@ -64,7 +64,7 @@ After choosing the features, I tried three models (Linear Regression, Lasso Regr
 
 ## Model Performance
 
-After feeding these features to our model, these are the results of the following algorithms:
+After feeding these features to our model, these are the results (mean average error (MAE)) of the following algorithms:
 - Random Forest (after GridsearchCV): MAE = 6.96
 - Random Forest (before GridsearchCV): MAE = 7.25
 - Linear Regression: MAE = 12.04
