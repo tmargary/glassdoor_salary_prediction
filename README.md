@@ -70,6 +70,8 @@ After feeding these features to our model, these are the results (mean average e
 - Linear Regression: MAE = 12.04
 - Lasso Regression: MAE = 13.43
 
+I have used MAE, as it's the simplest regression error metric to understand and to communicate to a general audiance.<br/>
+
 **In this case, Random Forest performed really well, and MAE of 6.96 means the model predicts the annual salary on the test set with a mean average error of $6,969, which is not a bad result at all.**
 
 ## Resources
