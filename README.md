@@ -28,12 +28,12 @@ Tweaked the web scraper GitHub repo (link below) to scrape 2000 job postings fro
 
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
-- Parsed numeric data out of salary
+- Parsed numeric data
 - Parsed rating out of company text
-- Made a new column for company state
-- Added a column for if the job was at the company’s headquarters
+- Made a new column for the state company the company is located
+- Added a column for the company’s headquarters
 - Transformed founded date into age of company
-- Made columns for different skills listed in the job description:
+- Made columns for different skills listed in the job description
 - Column for simplified job title and seniority
 - Column for description length
 
