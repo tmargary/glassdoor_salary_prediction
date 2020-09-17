@@ -7,7 +7,7 @@
 
 ## Web Scraping
 
-Tweaked the web scraper GitHub repo (link below) to scrape 2000 job postings from glassdoor.com. With each job, we got the following:
+Tweaked the web scraper GitHub repo (link below) to scrape 2000 job postings from glassdoor.com. For each job, I got the following:
 
 - Job title
 - Salary Estimate
