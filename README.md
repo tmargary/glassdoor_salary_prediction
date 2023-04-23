@@ -50,7 +50,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/Min%2C%20Max%2C%20and%20Avg%20salaries.jpg)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/corr_new.jpg)
 ![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/words.jpg)
-![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/type_new.jpg)
+![](https://github.com/tmargary/glassdoor_salary_prediction/blob/master/assets/graphs/type.jpg)
 
 
 ## Model Building
